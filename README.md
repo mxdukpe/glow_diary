@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/banner.png" alt="GlowDiary — suivi de routine skincare avec scan de produits" width="100%">
+</p>
+
 # ✨ GlowDiary - Smart Skincare Tracker
 
 Bienvenue dans **GlowDiary**, ton coach de routine beauté personnel ! Ce projet est une application mobile développée avec **React Native** et **Supabase**, inspirée par le concept de Foodvisor, mais appliquée à la skincare et haircare.
